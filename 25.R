@@ -1,0 +1,1 @@
+# Calculate summary measures (mean, standard deviation, first quartile, third quartile and interquartile range) for the variable you graphed above. Do this for the entire data set, as well as for the different groups formed by the categorical variable that you used to divide the data set using Census.csv data file.
